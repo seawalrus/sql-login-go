@@ -1,0 +1,26 @@
+* {
+    font-family:monospace;
+    background-color: #24273A;
+    color: #F5BDE6;
+    outline: none;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+.label {
+    background-color: #F5BDE6;
+}
+input {
+    color: #EED49F;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #24273A
+  }
+.fail {
+    color: #ED8796;
+}
+.success {
+    color: #A6DA95;
+}
